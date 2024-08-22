@@ -265,8 +265,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct][code_of_con
 [source_samples]: https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/cognitivelanguage/Azure.AI.Language.Text/samples
 [source_migration]: https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/cognitivelanguage/Azure.AI.Language.Text/MigrationGuide.md
 [source_root]: https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/cognitivelanguage/Azure.AI.Language.Text/src
-[package]: https://www.nuget.org/packages/
-[text_refdocs]: https://learn.microsoft.com/dotnet/
+[package]: https://www.nuget.org/packages/Azure.AI.Language.Text/1.0.0-beta.1
+[text_refdocs]: https://learn.microsoft.com/en-us/dotnet/api/azure.ai.language.text
 [text_docs]: https://docs.microsoft.com/azure/cognitive-services/text-analytics/
 [azure_sub]: https://azure.microsoft.com/free/dotnet/
 [textanalysisclient_class]: https://github.com/azure/azure-sdk-for-net/blob/main/sdk/cognitivelanguage/Azure.AI.Language.Text/src/TextAnalysisClient.cs
